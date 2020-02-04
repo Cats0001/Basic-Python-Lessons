@@ -5,7 +5,7 @@
 # at the number one. This isn't true for computers, which start counting at the number zero.
 # In a list, expressed as
 
-exampleList = ["valueOne", "valueTwo", "ValueThree"]
+exampleList = ["valueZero", "valueOne", "ValueTwo"]
 
 # you can access the zeroth, first, and second value, but not the third even though there are three values
 # stored within the list. There are still three values, but we take the "normal" counting number and subtract
